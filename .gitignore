@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts
+models/*.pkl
+models/*.joblib
+
+# Data folders
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
