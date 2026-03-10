@@ -217,20 +217,6 @@ Prediction: Customer likely to churn
 
 ---
 
-## Key Learnings
-
-This project demonstrates:
-
-- end-to-end machine learning pipeline development
-- preprocessing using scikit-learn pipelines
-- handling imbalanced datasets
-- hyperparameter tuning with GridSearchCV
-- threshold optimization
-- feature importance interpretation
-- building reusable prediction scripts
-
----
-
 ## Future Improvements
 
 Possible extensions:
